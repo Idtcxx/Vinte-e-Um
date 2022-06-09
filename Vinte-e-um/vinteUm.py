@@ -31,7 +31,7 @@ def vinteUm():
                     print('VITÓRIA PERFEITA!!!! PARABÉNS!!!!')
                 print('Parabéns você ganhou!!!')
             else:
-                print('Perdeu. Infelizmente você excedeu 21 pontos.')
+                print('Você Perdeu. Infelizmente você excedeu 21 pontos.')
 
     print('Deseja continuar?  [1]sim   [0]não')
     cont = input('   ---')
