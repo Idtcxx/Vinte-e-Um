@@ -29,6 +29,7 @@ def vinteUm():
             if ponto + x <= 21:
                 if ponto + x == 21:
                     print('VITÓRIA PERFEITA!!!! PARABÉNS!!!!')
+                    break
                 print('Parabéns você ganhou!!!')
             else:
                 print('Você Perdeu. Infelizmente você excedeu 21 pontos.')
